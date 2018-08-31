@@ -24,5 +24,6 @@
                 <linkfile src="nano.mk" dest="build/Makefile" />
                 <linkfile src="../toolchains/aarch64/bin/aarch64-linux-gnu-gdb" dest="build/gdb" />
                  
+ </project>
         
 </manifest>
