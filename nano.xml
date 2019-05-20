@@ -14,7 +14,7 @@
         <!-- linaro-swg gits -->
         <project path="linux"                name="friendlyarm/linux.git"                  revision="refs/heads/master" clone-depth="1" />
         <project path="optee_examples"       name="linaro-swg/optee_examples.git" />
-        <project path="optee_benchmark" name="linaro-swg/optee_benchmark.git"/>
+        <project remote="linaro-swg" path="optee_benchmark" name="optee_benchmark.git" revision="c734975883c4b68f3abd87e9657c57db76126611"/>
 
         <!-- Misc gits -->
         <project path="optee_os"             name="Avani8/optee_os.git"                   revision="refs/heads/master" clone-depth="1" />
