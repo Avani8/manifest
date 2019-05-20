@@ -7,7 +7,7 @@
 
         <!-- OP-TEE gits -->
         <project path="optee_client"         name="OP-TEE/optee_client.git" />
-        <project path="optee_test"           name="OP-TEE/optee_test.git" />
+        <project path="optee_test" name="optee_test.git" revision= "73205039829a7bb3566e1de5d5deeae9690639d4" />
         
        
 
